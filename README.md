@@ -141,7 +141,7 @@
             </tr>
             <tr>
             <td>Cocoa powder -></td>
-            <td>1 Bolw</td>    
+            <td>1 Bowl</td>    
             </tr>
             <tr>
             <td>Sprinkles-></td>
